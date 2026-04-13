@@ -6,4 +6,4 @@ Fresh off my training, I am an aspiring data engineer with a :fr: French certifi
 
 I used to work in international logistics on the desk side: be it by air (PAX & CAO) or road, I used to deal with DGR or otherwise sensitive shipments on a daily basis, producing the necessary documentation to ensure their export.
 
-Feel free to dive into this ![special repository](https://github.com/JeremyM174/JeremyM174) to learn more about me, or check out my [student](https://github.com/JeremyM174/Hub-student_projects) and personal projects!
+Feel free to dive into this [special repository](https://github.com/JeremyM174/JeremyM174) to learn more about me, or check out my [student](https://github.com/JeremyM174/Hub-student_projects) and personal projects!
