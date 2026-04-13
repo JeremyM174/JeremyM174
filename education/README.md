@@ -1,6 +1,6 @@
 # :mortar_board: Education
 
-Welcome to my education folder! You may find here both certificates officially assessing my education as being master level by :fr: French standards. Here are the two quicklinks to the certificates: [ML engineer](#bachelor-level---rncp-35288-ml-engineer) / [AI Architect](#master-level---rncp-38777-ai-architect)
+Welcome to my education folder! You may find here both certificates officially assessing my education as being master level by :fr: French standards. Here are the two quicklinks to the certificates: [ML engineer](#bachelor-level---rncp-35288-ml-engineer-top) / [AI Architect](#master-level---rncp-38777-ai-architect-top)
 
 You may find below the direct links to the relevant certificactes (please note the official website **does not** provide an official :uk: English translation):
 
@@ -14,6 +14,6 @@ Since you may not be familiar with French education credentials, you may find a 
 
 ![](ML_engineer.png)
 
-# Master level - RNCP 38777 AI Architect [:top](#mortar_board-education)
+# Master level - RNCP 38777 AI Architect [:top:](#mortar_board-education)
 
 ![](AI_Architect.png)

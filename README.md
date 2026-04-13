@@ -1,6 +1,6 @@
 # Welcome, welcome to my GitHub!
 
-![[](https://img.shields.io/badge/Occupation-Data_engineer-orange)](https://github.com/JeremyM174/JeremyM174) ![[](https://img.shields.io/badge/Education-Master_level-blue)](https://github.com/JeremyM174/JeremyM174) ![[](https://img.shields.io/badge/Experience-Junior-brightgreen)](https://github.com/JeremyM174/JeremyM174)
+[![](https://img.shields.io/badge/Occupation-Data_engineer-orange)](https://github.com/JeremyM174/JeremyM174) [![](https://img.shields.io/badge/Education-Master_level-blue)](https://github.com/JeremyM174/JeremyM174) [![](https://img.shields.io/badge/Experience-Junior-brightgreen)](https://github.com/JeremyM174/JeremyM174)
 
 Fresh off my training, I am an aspiring data engineer with a :fr: French certification in data science & engineering.
 
